@@ -3,3 +3,5 @@ In this SQL project, using the deaths and vaccination data tables of Covid-19 fr
 The raw dataset was downloaded from https://ourworldindata.org/covid-deaths
 
 I used MS-SQL Server and imported the Excel files to a SQL Database in my local machine to carry forward with the analysis.
+
+Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
