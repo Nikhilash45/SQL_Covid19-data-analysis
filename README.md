@@ -1,5 +1,5 @@
-#COVID-19 Data Analysis Project
-This project involves an exploratory analysis of COVID-19 deaths and vaccination data from March 2020 to June 2021. The raw dataset was sourced from Our World in Data and imported into an SQL Database on my local machine using MS-SQL Server.
+# COVID-19 Data Analysis Project
+In my SQL project, I conducted an exploratory analysis of Covid-19 deaths and vaccination data from March 2020 to June 2021 using MS-SQL Server. The raw dataset, sourced from Our World in Data, was imported into a SQL Database on my local machine. The analysis involved using various SQL skills, including Joins, CTEs, Temp Tables, Window Functions, Aggregate Functions, Creating Views, and Converting Data Types.
 
 ## Skills Utilized:
 ### 1) Joins
@@ -15,12 +15,3 @@ This project involves an exploratory analysis of COVID-19 deaths and vaccination
 
 ## Tools:
 ### MS-SQL Server
-
-
-In this SQL project, using the deaths and vaccination data tables of Covid-19 from March 2020 to June 2021, I've done an exploratary analysis using basic to advanced SQL queries.
-
-The raw dataset was downloaded from https://ourworldindata.org/covid-deaths
-
-I used MS-SQL Server and imported the Excel files to a SQL Database in my local machine to carry forward with the analysis.
-
-Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
